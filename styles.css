@@ -1,0 +1,30 @@
+/* add your CSS here */
+.no-dots {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.outer-border {
+    width: 400px;
+    border-style: groove;
+    border-width: thin medium thick medium;
+}
+
+.inner-border {
+    padding: 15px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 5px #888888;
+    margin-right:20px;
+    margin-left:20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.standard-spacing{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
